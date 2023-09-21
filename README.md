@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/646337943.svg)](https://zenodo.org/badge/latestdoi/646337943)
+
 # cfr-data
 This repository hosts frequently used datasets for climate field reconstruction (CFR) and supports data remote loading for the Python package [cfr](https://github.com/fzhu2e/cfr).
 
